@@ -7,7 +7,7 @@ void setUp(){}
 void tearDown(){}
 
 void test_search(void){
-    TEST_ASSERT_EQUAL(1,searchValue("BLACK")>0);
+    TEST_ASSERT_EQUAL(1,searchValue("BLACK"));
 }
 
 void test_compare(void){
