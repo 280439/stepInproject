@@ -1,8 +1,10 @@
 #include "fun.h"
 #include "unity.h"
-#define PROJECT_NAME "fun"
 
 /* Required by the unity test framework */
+#include "fun.h"
+#define PROJECT_NAME "Code"
+
 void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
