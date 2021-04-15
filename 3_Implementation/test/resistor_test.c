@@ -1,6 +1,6 @@
 #include "fun.h"
 #include "unity.h"
-#define PROJECT_NAME "Code"
+#define PROJECT_NAME "fun"
 
 /* Required by the unity test framework */
 void setUp(){};
@@ -14,7 +14,7 @@ void test_search(void){
 }
 
 void test_compare(void){
-    TEST_ASERT_EQUAL(0,compareString("BLACK","BLACK"));
+    TEST_ASERT_EQUAL(1,compareString("BLACK","BLACK"));
     
 }
 
