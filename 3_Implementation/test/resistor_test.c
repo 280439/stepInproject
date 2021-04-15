@@ -12,11 +12,11 @@ void test_search(void);
 void test_compare(void);
 
 void test_search(void){
-    TEST_ASSERT_EQUAL(0,searchValue("BROWN"));
+    TEST_ASSERT_EQUAL(0,searchValue("BLACK"));
 }
 
 void test_compare(void){
-    TEST_ASERT_EQUAL(1,compareString("BROWN","BROWN"));
+    TEST_ASERT_EQUAL(1,compareString("BLACK","BLACK"));
     
 }
 
