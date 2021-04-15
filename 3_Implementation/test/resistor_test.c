@@ -11,7 +11,7 @@ void test_search(void){
 }
 
 void test_compare(void){
-    TEST_ASERT_EQUAL(1,compareString("BLACK","BLACK")>0);
+    TEST_ASERT_EQUAL(1,compareString("BLACK","BLACK"));
     
 }
 
