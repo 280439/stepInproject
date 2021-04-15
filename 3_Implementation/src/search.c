@@ -1,6 +1,5 @@
 #include "fun.h"
 #include "string.h"
-#include "conio.h"
 
 
 #define ItemsCount (sizeof items/sizeof *items)
