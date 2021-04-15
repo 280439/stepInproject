@@ -5,6 +5,8 @@
 void setUp(){};
 /* Required by the unity test framework */
 void tearDown(){};
+void test_search();
+void test_compare();
 
 void test_search(void){
     TEST_ASSERT_EQUAL(0,searchValue("BLACK"));
