@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = fun
+PROJECT_NAME = Code
 
 # Output directory
 BUILD = build
