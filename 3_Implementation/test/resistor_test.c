@@ -1,7 +1,6 @@
 #include "fun.h"
 #include "unity.h"
 
-#include "fun.h"
 #define PROJECT_NAME "Code"
 
 /* Required by the unity test framework */
