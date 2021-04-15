@@ -6,6 +6,10 @@ StepInminiproject
 
 ![ResistorColourCodeCalculator](https://github.com/280439/stepInproject/blob/master/5_Images/resistor-color-code-calculator.jpg)
 
+|Build | valgrind | Unity | Git Inspector | cppcheck |
+|--- |--- |--- |---|---|
+|![C/C++ CI - Build Status](https://github.com/280439/stepInproject/actions/workflows/main.yml/badge.svg)](https://github.com/280439/stepInproject/actions/workflows/main.yml)) | tbd | tbd | [![Contribution Check - Git Inspector](https://github.com/280439/stepInproject/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/280439/stepInproject/actions/workflows/git_inspector.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/280439/stepInproject/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/280439/stepInproject/actions/workflows/cpp_check.yml) |
+
 ## Folder Structure
 
 | Folder  | Description  |
