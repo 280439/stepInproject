@@ -22,9 +22,9 @@ StepInminiproject
 
 ## Contribution List
 
-| SF ID | Name | Features | Issues raised | Issues resolved | Number of test cases | Number of Test cases pass |
+| SF ID | Name | Features | Issues raised | Issues resolved | Number of test cases | Test cases passed |
 |--- |--- |--- |--- |--- |--- |--- |
-| 280439 | Nivesh Pratap Katiyar | listed below in Features table | 5 | 5 | TBD | TBD |
+| 280439 | Nivesh Pratap Katiyar | listed below in Features table | 5 | 5 | 2 | All Passed |
 
 ## Features Table 
 
