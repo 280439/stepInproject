@@ -2,18 +2,18 @@
 #include "unity.h"
 
 /* Required by the unity test framework */
-void setUp(){}
+void setUp(){};
 /* Required by the unity test framework */
-void tearDown(){}
+void tearDown(){};
 
 void test_search(void){
-    TEST_ASSERT_EQUAL(1,searchValue("BLACK"));
+    TEST_ASSERT_EQUAL(1,searchValue("BLACK")>0);
 }
 
 void test_compare(void){
     TEST_ASERT_EQUAL(1,compareString("BLACK","BLACK"));
     
-}
+};
 
 int main(void)
 {
