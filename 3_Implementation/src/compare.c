@@ -1,5 +1,4 @@
 #include "fun.h"
-#include "conio.h"
 #include "string.h"
 
 int compareString (char *string1, char *string2)
