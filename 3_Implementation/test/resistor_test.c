@@ -3,9 +3,9 @@
 #define PROJECT_NAME "fun"
 
 /* Required by the unity test framework */
-void setUp(){};
+void setUp(){}
 /* Required by the unity test framework */
-void tearDown(){};
+void tearDown(){}
 void test_search(void);
 void test_compare(void);
 
