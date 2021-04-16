@@ -1,7 +1,7 @@
 /**
  * @file compare.c
  * @author Nivesh (you@domain.com)
- * @brief 
+ * @brief Function to compare the resistance code colour from the Enum provided
  * @version 0.1
  * @date 2021-04-16
  * 
@@ -10,13 +10,7 @@
  */
 #include "fun.h"
 #include "string.h"
-/**
- * @brief 
- * 
- * @param string1 
- * @param string2 
- * @return int 
- */
+
 int compareString (char *string1, char *string2)
 {
     if (!string1 && !string2) return 0;
