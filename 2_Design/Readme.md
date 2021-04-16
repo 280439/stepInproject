@@ -16,7 +16,10 @@
 
 ## Low Level Design 
 
-* Package Diagram
+* Package Diagram(Structural)
 
 ![FeaturesLevelStructuralDiagram](https://github.com/280439/stepInproject/blob/master/2_Design/Package%20diagram.png)
-![FeaturesBehaviouralDiagram](Link to Pic)
+
+* State Diagram(Behaviour)
+
+![FeaturesBehaviouralDiagram](https://github.com/280439/stepInproject/blob/master/2_Design/state%20diagram.png)
