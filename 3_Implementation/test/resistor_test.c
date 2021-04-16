@@ -1,3 +1,13 @@
+/**
+ * @file resistor_test.c
+ * @author Nivesh (you@domain.com)
+ * @brief Unit test cases below
+ * @version 0.1
+ * @date 2021-04-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "fun.h"
 #include "unity.h"
 
