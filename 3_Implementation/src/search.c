@@ -1,7 +1,7 @@
 /**
  * @file search.c
  * @author Nivesh (you@domain.com)
- * @brief Function to return the standard value for the Resistance Band
+ * @brief Function to search the standard value for the Resistance Band
  * @version 0.1
  * @date 2021-04-16
  * 
