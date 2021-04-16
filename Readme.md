@@ -24,7 +24,7 @@ StepInminiproject
 
 | SF ID | Name | Features | Issues raised | Issues resolved | Number of test cases | Test cases passed |
 |--- |--- |--- |--- |--- |--- |--- |
-| 280439 | Nivesh Pratap Katiyar | listed below in Features table | 5 | 5 | 2 | All Passed |
+| 280439 | Nivesh Pratap Katiyar | listed below in Features table | 12 | 11 | 2 | All Passed |
 
 ## Features Table 
 
@@ -44,3 +44,5 @@ StepInminiproject
 |2 | Writing all the requirements,cost,swot analysis,4W 1H and High/low level requirements | By studing deep about the project |
 |3 | Creating github Workflows | By Code Inspection |
 |4 | Pushing files and folders to repository by Git bash | By removing all the previous pushed files and folders |
+|5 | C/C++ CI - Build Status is not passing |  By modifying the code |
+|6 | Unit test is not passing | By modifying the errors |
