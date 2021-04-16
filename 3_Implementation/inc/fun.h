@@ -1,7 +1,7 @@
 /**
  * @file fun.h
  * @author your name (you@domain.com)
- * @brief 
+ * @brief Header file to include the Search fuction, compare function
  * @version 0.1
  * @date 2021-04-12
  * 
