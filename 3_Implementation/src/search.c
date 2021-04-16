@@ -1,3 +1,13 @@
+/**
+ * @file search.c
+ * @author Nivesh (you@domain.com)
+ * @brief Function to return the standard value for the Resistance Band
+ * @version 0.1
+ * @date 2021-04-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "fun.h"
 #include "string.h"
 
@@ -11,7 +21,8 @@ struct itemsList
  {
     char *itemName;
     enum resistor_colours id;
- } items[] = {
+ }
+  items[] = {
     {"BLACK", BLACK},
     {"BROWN", BROWN},
     {"RED", RED},
