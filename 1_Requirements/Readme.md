@@ -6,7 +6,7 @@
 
 
 ## Research
-* Resistance colour code calculator is a software program used to find the resistance value of the resistor. The entire format of the software is built on C programming language.This main agenda of this software is to find the resistance value of the resistor by using colour code bands. It refers to a number of efficient automated systems designed for cauculating the resistance value.
+* Resistance colour code calculator is a software program used to find the resistance value of the resistor. The entire format of the software is built on C programming language. This main agenda of this software is to find the resistance value of the resistor by using colour code bands. It refers to a number of efficient automated systems designed for calculating the resistance value.
 
 ## Cost and Features
 
