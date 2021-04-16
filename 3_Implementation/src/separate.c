@@ -1,3 +1,13 @@
+/**
+ * @file separate.c
+ * @author Nivesh (you@domain.com)
+ * @brief Function to separate the higher order resistance value entered
+ * @version 0.1
+ * @date 2021-04-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "fun.h"
 #include "string.h"
 #include "stdio.h"
