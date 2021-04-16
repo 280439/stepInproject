@@ -1,6 +1,6 @@
 /**
  * @file fun.h
- * @author your name (you@domain.com)
+ * @author Nivesh (you@domain.com)
  * @brief Header file to include the Search fuction, compare function
  * @version 0.1
  * @date 2021-04-12
@@ -10,10 +10,6 @@
  */
 #ifndef _FUN_H
 #define _FUN_H
-/**
- * @brief 
- * 
- */
 
 char *convertToLower (char *dest, char *src);
 
